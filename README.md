@@ -1,14 +1,52 @@
-# Project
+# TechExcel: Integrating Azure PaaS and AI Services for AI Design Wins
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains a hands-on lab that teaches you how to integrate Azure OpenAI and Azure AI Services into existing business practices. You will experiment with a variety of Azure OpenAI and Azure AI Services capabilities, including vectorization of existing files, performing chat based on a customer's dataset, making API calls through Azure OpenAI, transcribing recorded and live audio, checking audio for compliance purposes, and generating extractive and abstractive call summaries from audio recordings.
 
-As the maintainer of this project, please make a few updates:
+## Getting Started
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+### Option 1: Fork and Clone the Repository (Recommended)
+
+1. **Fork this repository** to your GitHub account by clicking the **Fork** button at the top of this page
+2. **Clone your forked repository** to your local machine:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins.git
+   ```
+
+### Option 2: Use GitHub Codespaces
+
+1. Click the **Code** button above
+2. Select the **Codespaces** tab
+3. Click **Create codespace on main**
+
+### Option 3: Download as ZIP
+
+1. Click the **Code** button above
+2. Select **Download ZIP**
+3. Extract the files to your desired location
+
+## Prerequisites
+
+For running this lab you will need:
+
+* An Azure subscription with access to Azure OpenAI
+* A desktop, laptop, or virtual machine with the ability to install software
+
+## Lab Exercises
+
+This lab includes exercises on:
+
+* Deploy app resources
+* Add chat with data
+* Implement function calls using Semantic Kernel
+* Implement vector search using the Cosmos DB NoSQL API
+* Implement audio transcription
+* Generate a call summary
+* Perform compliance checks and vector search against transcripts
+* Orchestrate agents with Semantic Kernel
+
+## Documentation
+
+The complete lab instructions are available as GitHub pages [here](https://microsoft.github.io/TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins)
 
 ## Contributing
 
